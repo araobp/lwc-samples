@@ -2,12 +2,12 @@
 
 I am becoming interested in Salesforce.
 
-Let's learn LWC by doing!
+Let's learn Lightning Web Components by doing!
 
-## webcomponents.dev
+## webcomponents.dev for LWC
 
 https://studio.webcomponents.dev/create/lwc
 
 ## Reference
 
-https://trailhead.salesforce.com/ja/today
+[LWC dev guide](https://developer.salesforce.com/docs/component-library/documentation/en/lwc)
