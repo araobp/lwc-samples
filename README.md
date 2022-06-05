@@ -4,6 +4,10 @@ I am becoming interested in Salesforce.
 
 Let's learn Lightning Web Components by doing!
 
+## Wiki of this project
+
+[Wiki](https://github.com/araobp/lwc-samples/wiki/Issues)
+
 ## webcomponents.dev for LWC
 
 https://studio.webcomponents.dev/create/lwc
